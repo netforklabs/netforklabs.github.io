@@ -59,4 +59,4 @@
     *个人技能: Java/C++/Python
     *加入团队: 公共组件/套件研发团队
     *参加项目: RPC远程调度框架
-    *Github地址: 你的github名称
+    *Github地址: 你的github账户
